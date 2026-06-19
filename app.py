@@ -11,7 +11,7 @@ app = FastAPI()
 
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
-model = load_embedding_model()
+model = None
 collection = get_collection()
 client = load_llm_client()
 
@@ -23,6 +23,11 @@ def home():
 
 @app.post("/chat", response_model=ChatResponse)
 def chat(request: ChatRequest):
+    global model
+
+    if model is None:
+        model = load_embedding_model()
+
     results = search_similar_chunks(
         query=request.question,
         model=model,
