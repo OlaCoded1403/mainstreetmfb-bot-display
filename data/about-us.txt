@@ -1,0 +1,14 @@
+PAGE: ABOUT US
+URL: https://www.mainstreetmfb.com/about-us/
+
+About Us
+Mainstreet MFB formerly known as Afribank Microfinance Bank Ltd is a private limited liability company incorporated in November 2008.
+The bank is licensed by the Central Bank of Nigeria (CBN) to provide Micro-Financial Banking services to the general public.
+Vision
+To be the leading microfinance bank delivering value to customers and stakeholders.
+Mission
+To deliver microfinance banking services to customers through innovation, professionalism and excellent customer service.
+Who We Are
+Mainstreet Microfinance Bank provides banking services to individuals, groups, SMEs and businesses requiring micro credit and other financial services.
+Core values include customer focus, professionalism, innovation, integrity and value creation.
+

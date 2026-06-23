@@ -1,0 +1,13 @@
+PAGE: E-PRODUCTS
+URL: https://www.mainstreetmfb.com/e-products/
+
+E-Products
+Mainstreet MFB e-products include:
+- MasterCard / Card Services
+- Instant Funds Transfer
+- Mobile Banking
+- USSD Banking
+- Internet Banking
+- BVN | NIN Update
+The website presents these as channels to make banking easier and to support customer transactions without requiring a branch visit.
+

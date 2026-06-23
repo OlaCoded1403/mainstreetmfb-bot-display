@@ -1,0 +1,9 @@
+PAGE: BVN & NIN UPDATE
+URL: https://www.mainstreetmfb.com/bvn-nin-update/
+
+BVN & NIN UPDATE
+The visible text on the page mainly consists of a BVN/NIN banner image and loading/CSS placeholder text.
+Readable page text captured:
+BVN/NIN Banner
+Loading… CSS (margin: 0 auto), Flexbox (display: flex; justify-content: center), CSS Grid (display: grid; place-items: center), tables (align=”center”)
+

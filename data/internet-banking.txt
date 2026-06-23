@@ -1,0 +1,12 @@
+PAGE: INTERNET BANKING
+URL: https://www.mainstreetmfb.com/internet-banking/
+
+Internet Banking
+Online banking is described as a real-time solution that enables customers to access their account 24 hours a day, 7 days a week.
+Mainstreet MFB account holders can access the Online Banking platform.
+The platform is free.
+Transactions include balance enquiry, inter-bank transfers, account statement generation and bills payment via NIBSS.
+Required infrastructure: a personal computer, tablet, hand-held device or other internet-connected device.
+Funds can be transferred to all local banks in Nigeria.
+Customers may register on the website by clicking online banking and choosing subscribe to register.
+

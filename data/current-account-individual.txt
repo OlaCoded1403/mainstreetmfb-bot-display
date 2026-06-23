@@ -1,0 +1,7 @@
+PAGE: CURRENT ACCOUNT INDIVIDUAL
+URL: https://www.mainstreetmfb.com/current-account-individual/
+
+Current Account Individual
+An account designed for individuals who need cheque-enabled or transactional banking services.
+Requirements include account opening form, passport photograph, valid ID, utility bill and other KYC documents requested by the bank.
+

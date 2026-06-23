@@ -1,0 +1,7 @@
+PAGE: PAYEE LOAN
+URL: https://www.mainstreetmfb.com/payee-loan/
+
+Payee Loan
+A loan product listed under Mainstreet MFB's loan packages.
+It is subject to the bank's credit appraisal, documentation and repayment requirements.
+

@@ -1,0 +1,8 @@
+PAGE: VACANCIES
+URL: https://www.mainstreetmfb.com/vacancies/
+
+Vacancies
+There are currently no job openings.
+Please check back later.
+The CV submission form is unavailable at the time of extraction.
+

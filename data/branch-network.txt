@@ -1,0 +1,15 @@
+PAGE: BRANCH NETWORK
+URL: https://www.mainstreetmfb.com/branch-network/
+
+Branch Network
+The branch network page lists Mainstreet MFB branches in Lagos.
+Branches and offices displayed include:
+- Head Office / Victoria Island: Plot 1686B, Oladele Olashore Street, Victoria Island, Lagos.
+- Broad Street Branch
+- Epe Branch
+- Ikorodu Branch
+- Kosofe Branch
+- Lekki Branch
+- Other Lagos branches and service locations displayed on the website.
+Each branch entry includes contact/address details on the live page.
+

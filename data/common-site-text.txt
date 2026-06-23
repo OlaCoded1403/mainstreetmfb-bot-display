@@ -1,0 +1,61 @@
+SECTION: COMMON SITE TEXT
+
+Blog
+234 7083 830 241 / 0802-923-5544
+info@mainstreetmfb.com
+
+Navigation
+Home
+Our Products
+- Retail Banking
+  - Corporate Account
+  - Current Account Individual
+  - Main Save Individual
+  - Main Target Savings Account
+  - Main Fix & Gold Individual
+  - Greater Tomorrow Individual Account
+- Loans
+  - Main Essential
+  - Main Swift Cash
+  - Mainstreet Enterprise Loan
+  - Mainstreet Equip Loan Special
+  - Mainstreet Special Edu Finance
+  - Payee Loan
+- Investment
+  - Main Treasure Note
+- Mainstreet Bank Forms
+E-Products
+- BVN | NIN Update
+- Card Services
+- Instant Money Transfer
+- USSD Banking
+- Mobile Banking
+- Internet Banking
+About Us
+- Directors
+- Management Team
+Career
+- Vacancies
+Contact Us
+- Branch Network
+- Whistle Blowing
+- FAQ
+Footer links
+- Investment
+- Retail Banking
+- Loans
+- Whistle Blowing
+- Lost/Stolen Cards
+- Mainstreet Bank Forms
+- Fraud Alerts
+- Privacy Policy
+- Terms & Conditions
+
+Common footer text
+Mainstreet MFB formerly known as Afribank Microfinance Bank Ltd is a private limited liability company incorporated in November 2008.
+We are licensed by the Central Bank of Nigeria (CBN) to provide Micro-Financial Banking services to the general public.
+Contact Us: PLOT 1686B, OLADELE OLASHORE STREET, VICTORIA ISLAND, LAGOS.
+0802-923-5544
+info@mainstreetmfb.com
+© Mainstreet MFB. All Rights Reserved 2018 - 2026
+
