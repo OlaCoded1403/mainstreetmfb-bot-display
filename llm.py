@@ -1,3 +1,4 @@
+import logging
 from groq import Groq
 from dotenv import load_dotenv
 import os
@@ -31,6 +32,13 @@ def generate_answer(chunks: list[str], question, client, history=None):
     """take question and retrieved chunks and generate answer"""
     valid_chunks = [chunk for chunk in chunks if isinstance(chunk, str) and chunk.strip()]
     if not valid_chunks:
+        logger = logging.getLogger(__name__)
+        logger.warning(
+            "generate_answer called with empty or invalid chunks; "
+            "question=%r, raw_chunks_count=%d",
+            question,
+            len(chunks) if chunks is not None else 0,
+        )
         return "I don't have that information."
 
     retrieved_chunk = "\n\n".join(valid_chunks)

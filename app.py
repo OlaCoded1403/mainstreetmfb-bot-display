@@ -1,3 +1,5 @@
+import os
+from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
 from schemas import ChatRequest, ChatResponse
 from fastapi.responses import FileResponse
@@ -9,11 +11,20 @@ from embeddings import load_embedding_model
 from vector_store import get_collection, search_similar_chunks
 from llm import load_llm_client, generate_answer
 
+load_dotenv()
+
 app = FastAPI()
+
+# Configure allowed origins from environment variable (e.g. comma-separated list of origins)
+allowed_origins_raw = os.getenv("ALLOWED_ORIGINS", "*")
+if allowed_origins_raw == "*":
+    allowed_origins = ["*"]
+else:
+    allowed_origins = [origin.strip() for origin in allowed_origins_raw.split(",") if origin.strip()]
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=allowed_origins,
     allow_credentials=False,
     allow_methods=["GET", "POST", "OPTIONS"],
     allow_headers=["*"],
