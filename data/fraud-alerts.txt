@@ -1,0 +1,8 @@
+PAGE: FRAUD ALERTS
+URL: https://www.mainstreetmfb.com/fraud-alerts/
+
+Fraud Alerts
+The fraud alerts page provides fraud awareness and customer protection information.
+Customers should protect their credentials, PINs, OTPs and access codes and avoid sharing them with anyone, including bank staff.
+Suspicious activity should be reported to the bank.
+

@@ -1,0 +1,42 @@
+PAGE: ACCOUNT OPENING/SAVINGS PRODUCTS/AGREEMENT/TERMS AND CONDITIONS
+URL: https://www.mainstreetmfb.com/account-opening-savings-products-agreement-terms-and-conditions/
+
+ACCOUNT OPENING/SAVINGS PRODUCTS/AGREEMENT/TERMS AND CONDITIONS
+These Terms and Conditions apply to all accounts whether opened on the date of agreeing to these Terms and Conditions or on a later/prior date.
+Customers undertake and agree to be bound by the Terms and Conditions.
+The account(s) and all banking transactions between the customer and Mainstreet Microfinance Bank Ltd are governed by the conditions specified on the page, product-specific agreements and customary banking practices in Nigeria.
+Key extracted points:
+1. The bank will not establish or operate requested account(s) until minimum account opening requirements are received.
+2. The bank is authorised to conduct KYC, search and due diligence procedures required by law, regulation and policy, and may debit the account for related costs.
+3. The bank may impose or change minimum balance requirements and charges.
+4. The bank may amend interest or close accounts where balances are below required minimums.
+5. The bank may transfer money between customer accounts maintained with the bank where a balance is below minimum requirement.
+6. The bank may combine, consolidate, set off or transfer amounts across customer accounts or related-party obligations.
+7. The bank may retain amounts owed to the customer until amounts owed to the bank are discharged.
+8. Delay or omission in enforcing rights is not a waiver.
+9. The customer is responsible for costs, expenses and liabilities from investments made on the customer’s behalf.
+10. In absence of contrary instruction, the bank may place funds in appropriate investment or deposit and renew/reinvest at maturity.
+11. The bank may retain investment instruments on safe custody basis.
+12. If the bank allows an account to become overdrawn, it may charge interest and fees as considered appropriate.
+13. The bank may decline payments exceeding account balance or select which transactions to execute.
+14. Dishonoured uncleared effects may be debited back to the customer.
+15-18. Validity, commission, charges, multiple-account holders and related general banking clauses apply.
+19. Communications are deemed made when sent to the most recent address provided. Statements/confirmations may become conclusive unless disputed within the stated timeframe.
+20. Electronic mail and verbal communications are insecure; customers indemnify the bank for losses from honouring such instructions where authorised.
+21. The customer authorises debit for cheque book costs.
+22. Cheques and other orders are honoured subject to mandate and funds; customers assume responsibility for endorsements and overdrafts and must safeguard cheque books, passwords and non-branch channel access codes.
+23. Customers affirm awareness that issuing cheques without sufficient funds is a crime under Nigerian law.
+24. Account tiers may be modified in line with CBN directives: Tier 1 low-value accounts, Tier 2 medium-value accounts and Tier 3 high-value accounts requiring acceptable ID.
+Electronic Banking terms cover Internet Banking, Mobile App Banking, USSD, SMS notifications and ATM services.
+Definitions include Customer, Bank, Card Holder, Service, Access Code/Passcode/Username/Password, Account, PIN, ATM, ATM Card and Secure Messages Facility.
+The service allows balance enquiries, clearing/balance information, utility bill payment instructions, transfers within and outside the bank, payment order instructions, card loading and transaction history.
+Customers must have an account, valid email, passcode/access code/username/password or token, PIN, valid phone number and BVN.
+Customers must not disclose credentials, must change compromised access codes/passwords and are responsible for instructions given through their credentials.
+The bank states it is not responsible for fraudulent, duplicate or erroneous instructions given via customer credentials.
+Customers are responsible for safeguarding username, access code, passcode, PIN and password.
+The bank may charge applicable fees whether or not the service is used.
+The bank disclaims liability for damages, interruptions, errors, viruses and related system failures, and states copyright in website pages/screens/material arrangement is owned by the bank.
+Guidelines require customers to provide accurate information, comply with law and respect proprietary rights.
+The bank reserves the right to discontinue service for violations.
+Additional clauses cover disclaimer of warranties, limitation of liability, indemnity, service changes/discontinuation, notices, governing law, authority to debit for cheque book/ATM card, release from banker’s duty of secrecy in relation to authorised instructions, credit bureau checks/disclosures, fraud restrictions and declaration that information provided is correct.
+

@@ -1,3 +1,5 @@
+import re
+
 import chromadb
 
 
@@ -8,12 +10,15 @@ def get_collection():
     return collection
 
 
-def store_embeddings(chunks, embeddings, collection):
+def store_embeddings(chunks, embeddings, collection, source):
     """Store text chunks and their embeddings in the ChromaDB collection."""
+    source_id = re.sub(r"[^a-zA-Z0-9_-]+", "_", source).strip("_")
+
     collection.add(
         documents=chunks,
         embeddings=embeddings,
-        ids=[f"chunk_{i}" for i in range(len(chunks))],
+        ids=[f"{source_id}_chunk_{i}" for i in range(len(chunks))],
+        metadatas=[{"source": source} for _ in chunks],
     )
 
 
@@ -31,12 +36,11 @@ def clear_collection(collection):
     accumulating across multiple runs.
     """
     try:
-        # Get all existing IDs in the collection
         existing = collection.get()
         if existing["ids"]:
             collection.delete(ids=existing["ids"])
-            print(f"🗑️ Cleared {len(existing['ids'])} chunks from collection")
+            print(f"Cleared {len(existing['ids'])} chunks from collection")
         else:
-            print("🗑️ Collection already empty")
+            print("Collection already empty")
     except Exception as e:
-        print(f"⚠️ Could not clear collection: {e}")
+        print(f"Could not clear collection: {e}")

@@ -1,0 +1,12 @@
+PAGE: CONTACT US
+URL: https://www.mainstreetmfb.com/contact-us/
+
+Contact Us
+Main Office
+PLOT 1686B, OLADELE OLASHORE STREET, VICTORIA ISLAND, LAGOS.
+Phone: 0708-383-0241 / 0802-923-5544
+Email: info@mainstreetmfb.com
+Opening hours shown on the page:
+Monday to Friday: 8:00am - 5:00pm
+Contact form fields include name, email, subject and message.
+

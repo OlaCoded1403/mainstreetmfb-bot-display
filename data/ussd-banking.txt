@@ -1,0 +1,11 @@
+PAGE: USSD BANKING
+URL: https://www.mainstreetmfb.com/ussd-banking/
+
+USSD Banking
+USSD code: *614*394#
+Services listed include:
+- Fund transfer
+- Airtime purchase
+- Balance enquiry
+- Other USSD banking services available through Mainstreet MFB's USSD platform.
+

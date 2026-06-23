@@ -57,6 +57,7 @@ for doc in documents:
         chunks=chunks,
         embeddings=embeddings,
         collection=collection,
+        source=doc["source"],
     )
 
 print(f"Stored {collection.count()} chunks")
